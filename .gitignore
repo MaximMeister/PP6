@@ -1,0 +1,12 @@
+# Object files
+*.o
+
+# Executables
+print
+print_c
+
+# Editor/OS spezifische Dateien
+*.swp
+*~
+.DS_Store
+
