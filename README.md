@@ -97,7 +97,8 @@ print_escape
 Place your completed `print.sh` in `solutions/` and commit. Then link it here:
 
 ```
-[print.sh](https://github.com/YOUR_USERNAME/REPO_NAME/blob/main/solutions/print.sh)
+Meine Lösung:
+https://github.com/MaximMeister/PP6/blob/main/solutions/print.sh
 ```
 
 #### Reflection Questions
